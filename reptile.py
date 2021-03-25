@@ -23,4 +23,4 @@ class Reptile(Animal):  # We need to pass the animal class as an arg in our rept
 
 reptile_object = Reptile()
 # Time to see what
-print(reptile_object.seek_heat())
+# print(reptile_object.seek_heat())

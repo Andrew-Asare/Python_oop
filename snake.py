@@ -15,4 +15,5 @@ class Snake(Reptile):
     def shed_skin(self):
         return "growing out "
 snake_object = Snake()
-print(snake_object.limbs)
+print(snake_object.venom)
+# print(snake_object.limbs)
